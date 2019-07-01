@@ -1,6 +1,6 @@
 # STAT501
 Simple Linear Regression(SLR), Multiple Linear Regression (MLR) etc.. 
-Thie repositery is for applying and understanding statistics concept through Python, I am self-studying under STAT501.
+Thie repository is for applying and understanding statistics concept through Python, I am self-studying under STAT501.
 STAT 501 includes -
 1. SLR
 2.MLR
